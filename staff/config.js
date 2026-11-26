@@ -1,4 +1,1 @@
-window.WATTWISE_CONFIG = Object.freeze({
-  supabaseUrl: "",
-  publishableKey: ""
-});
+window.WATTWISE_CONFIG = Object.freeze({"supabaseUrl": "https://fvtxkunqeulodscekpux.supabase.co", "publishableKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ2dHhrdW5xZXVsb2RzY2VrcHV4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU2NjI4MzYsImV4cCI6MjExMTIzODgzNn0.JaxkmlvN0cy2Ketye51D2qXV7nqg4Uy-bjEaEH_K3VM"});
